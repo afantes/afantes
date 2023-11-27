@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **everything related to Web development 😄**
 - 👯 I’m looking to collaborate on **Open source projects 🤝**
-- 🌐 Visit my personal website: [anasfantes.me](https://anasfantes.me)
-- 📫 How to reach me: **anasfantes.dev@gmail.com**
+- 🌐 Visit my personal website: **[anasfantes.me](https://anasfantes.me)**
+- 📫 How to reach me: hey@anasfantes.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
